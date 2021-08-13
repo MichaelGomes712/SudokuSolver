@@ -1,0 +1,39 @@
+\begin{thebibliography}{1}
+
+\bibitem{DJVP}
+D.~Job and V.~Paul.
+\newblock Recursive backtracking for solving 9*9 sudoku puzzle.
+\newblock {\em Bonfring International Journal of Data Mining, vol. 6, no. 1},
+  pages 07--09, 2016.
+
+\bibitem{SJAR}
+A.~Maji S.~Jana and R.~Pal.
+\newblock A novel sudoku solving technique using column based permutation.
+\newblock {\em 2015 International Symposium on Advanced Computing and
+  Communication (ISACC)}, 2015 (accessed 11 October 2020).
+
+\bibitem{AAWS}
+A.~Aljohani and W.~Smith.
+\newblock N×n sudoku solver: Sequential and parallel computing.
+\newblock Technical report, 2016 (accessed 09 October 2020).
+\newblock \url{https://www.cs.rit.edu/~ark/fall2016/654/team/02/report.pdf}.
+
+\bibitem{LCGL}
+L.~Coelho and G.~Laporte.
+\newblock A comparison of several enumerative algorithms for sudoku.
+\newblock {\em Journal of the Operational Research Society, vol. 65, no. 10},
+  pages 1602--1610, 2014.
+
+\bibitem{GGRL}
+G.~Greenspan and R.~Lee.
+\newblock Web sudoku.
+\newblock July 2005 (accessed 09 October 2020).
+\newblock \url{https://www.websudoku.com/?level=1}.
+
+\bibitem{art6}
+M.~Das.
+\newblock sudoku-backtracking-7.
+\newblock May 2020 (accessed 09 October 2020).
+\newblock \url{https://www.geeksforgeeks.org/sudoku-backtracking-7/}.
+
+\end{thebibliography}

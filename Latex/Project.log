@@ -1,0 +1,352 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2020.10.19)  20 OCT 2020 13:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Project
+(./Project.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count175
+\float@exts=\toks15
+\float@box=\box45
+\@float@everytoks=\toks16
+\@floatcapt=\box46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count176
+\c@@ppsavesec=\count177
+\c@@ppsaveapp=\count178
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count179
+\lst@gtempboxa=\box47
+\lst@token=\toks17
+\lst@length=\count180
+\lst@currlwidth=\dimen137
+\lst@column=\count181
+\lst@pos=\count182
+\lst@lostspace=\dimen138
+\lst@width=\dimen139
+\lst@newlines=\count183
+\lst@lineno=\count184
+\lst@maxwidth=\dimen140
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count185
+\lst@skipnumbers=\count186
+\lst@framebox=\box48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
+\l__pdf_internal_box=\box49
+\g__pdf_backend_object_int=\count187
+\l__pdf_backend_content_box=\box50
+\l__pdf_backend_model_box=\box51
+\g__pdf_backend_annotation_int=\count188
+\g__pdf_backend_link_int=\count189
+\g__pdf_backend_link_sf_int=\count190
+)
+(./Project.aux)
+\openout1 = `Project.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+\c@lstlisting=\count191
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+ [1
+
+] [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 44.
+ [3] [4]
+Overfull \hbox (79.66135pt too wide) in paragraph at lines 104--124
+ [][] 
+ []
+
+
+Overfull \hbox (82.30759pt too wide) in paragraph at lines 129--149
+ [][] 
+ []
+
+[5]
+Overfull \hbox (79.66135pt too wide) in paragraph at lines 154--174
+ [][] 
+ []
+
+
+Overfull \hbox (79.66135pt too wide) in paragraph at lines 180--201
+ [][] 
+ []
+
+[6]
+File: images/fig5.eps Graphic file (type eps)
+ <images/fig5.eps>
+File: images/fig6.eps Graphic file (type eps)
+ <images/fig6.eps> [7]
+File: images/fig7.eps Graphic file (type eps)
+ <images/fig7.eps>
+File: images/fig8.eps Graphic file (type eps)
+
+<images/fig8.eps> [8]
+File: images/fig9.eps Graphic file (type eps)
+ <images/fig9.eps> [9] [10]
+File: images/fig12.eps Graphic file (type eps)
+ <images/fig12.eps> [11]
+Underfull \hbox (badness 10000) in paragraph at lines 357--360
+
+ []
+
+[12] [13] [14] [15] (./Project.bbl) [16]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4
+47.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 447.
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 4
+49.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 449.
+
+Overfull \hbox (40.77417pt too wide) in paragraph at lines 457--458
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (40.77417pt too wide) in paragraph at lines 462--463
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (86.76465pt too wide) in paragraph at lines 464--465
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (34.2041pt too wide) in paragraph at lines 472--473
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (40.77417pt too wide) in paragraph at lines 473--474
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[17] [18] [19]
+Overfull \hbox (40.77417pt too wide) in paragraph at lines 566--567
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[20]
+Overfull \hbox (1.35376pt too wide) in paragraph at lines 609--610
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 624--625
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[21]
+Overfull \hbox (7.92383pt too wide) in paragraph at lines 649--650
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 667--668
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[22]
+Overfull \hbox (106.47485pt too wide) in paragraph at lines 678--679
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[23]
+Overfull \hbox (7.92383pt too wide) in paragraph at lines 720--721
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[24]
+Overfull \hbox (34.2041pt too wide) in paragraph at lines 761--762
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 762--763
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[25] [26] [27]
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 881--882
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (53.9143pt too wide) in paragraph at lines 885--886
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+[28]
+Overfull \hbox (34.2041pt too wide) in paragraph at lines 887--888
+[][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (80.19458pt too wide) in paragraph at lines 896--897
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[29]
+Overfull \hbox (1.35376pt too wide) in paragraph at lines 928--929
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (47.34424pt too wide) in paragraph at lines 929--930
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 939--940
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (40.77417pt too wide) in paragraph at lines 943--944
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 945--946
+[][][][][][][][][][][][][] 
+ []
+
+[30]
+Overfull \hbox (27.63403pt too wide) in paragraph at lines 963--964
+[][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (80.19458pt too wide) in paragraph at lines 965--966
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[31]
+Overfull \hbox (7.92383pt too wide) in paragraph at lines 992--993
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (47.34424pt too wide) in paragraph at lines 1007--1008
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 1010--1011
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (80.19458pt too wide) in paragraph at lines 1019--1020
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 1021--1022
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+[32] [33] (./Project.aux) ) 
+Here is how much of TeX's memory you used:
+ 2762 strings out of 481240
+ 37781 string characters out of 5920402
+ 293503 words of memory out of 5000000
+ 18035 multiletter control sequences out of 15000+600000
+ 538396 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,7n,36p,3893b,1548s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Project.dvi (33 pages, 94464 bytes).

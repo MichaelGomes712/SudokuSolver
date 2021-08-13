@@ -1,0 +1,276 @@
+"C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\lib\idea_rt.jar=52274:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\charsets.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\ext\access-bridge-64.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\ext\cldrdata.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\ext\dnsns.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\ext\jaccess.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\ext\jfxrt.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\ext\localedata.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\ext\nashorn.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\ext\sunec.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\ext\sunjce_provider.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\ext\sunmscapi.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\ext\sunpkcs11.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\ext\zipfs.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\jce.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\jfr.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\jfxswt.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\jsse.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\management-agent.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\resources.jar;C:\Users\Tristen Paul\.jdks\corretto-1.8.0_265\jre\lib\rt.jar;C:\Users\Tristen Paul\IdeaProjects\untitled\out\production\untitled" com.company.Program
+5 1 7 8 3 2 6 9 4 
+9 3 6 7 4 5 8 1 2 
+8 2 4 1 9 6 3 5 7 
+4 5 9 6 1 3 7 2 8 
+3 8 1 2 5 7 9 4 6 
+7 6 2 9 8 4 1 3 5 
+1 4 5 3 7 8 2 6 9 
+2 9 8 5 6 1 4 7 3 
+6 7 3 4 2 9 5 8 1 
+Input grid
+totCount populated: 75
+5 1 7 8 0 2 6 9 4 
+9 3 6 7 4 5 8 1 2 
+8 2 4 1 9 6 3 5 0 
+4 5 9 6 1 0 7 2 8 
+3 8 1 2 5 7 9 4 6 
+7 6 2 9 8 4 1 3 5 
+1 4 5 3 7 8 2 6 9 
+2 9 8 5 6 1 4 7 3 
+6 7 3 4 0 0 5 8 1 
+Output grid
+5 1 7 8 3 2 6 9 4 
+9 3 6 7 4 5 8 1 2 
+8 2 4 1 9 6 3 5 7 
+4 5 9 6 1 3 7 2 8 
+3 8 1 2 5 7 9 4 6 
+7 6 2 9 8 4 1 3 5 
+1 4 5 3 7 8 2 6 9 
+2 9 8 5 6 1 4 7 3 
+6 7 3 4 2 9 5 8 1 
+Time: 0.0866
+Input grid
+totCount populated: 70
+5 1 0 8 0 2 6 9 4 
+9 3 6 7 4 5 8 1 2 
+8 2 4 1 9 6 3 5 0 
+0 5 9 6 1 0 7 2 8 
+3 8 1 2 5 7 9 4 6 
+7 6 2 0 8 4 0 3 5 
+1 4 5 3 7 8 2 6 9 
+0 9 8 5 6 1 4 7 3 
+6 7 3 4 0 0 5 8 1 
+Output grid
+5 1 7 8 3 2 6 9 4 
+9 3 6 7 4 5 8 1 2 
+8 2 4 1 9 6 3 5 7 
+4 5 9 6 1 3 7 2 8 
+3 8 1 2 5 7 9 4 6 
+7 6 2 9 8 4 1 3 5 
+1 4 5 3 7 8 2 6 9 
+2 9 8 5 6 1 4 7 3 
+6 7 3 4 2 9 5 8 1 
+Time: 0.0254
+Input grid
+totCount populated: 65
+5 1 0 8 0 2 6 9 4 
+9 3 6 7 0 0 8 1 2 
+8 2 4 1 9 6 3 5 0 
+0 5 9 6 1 0 0 2 8 
+3 8 1 2 5 7 9 0 6 
+7 6 2 0 8 4 0 3 5 
+1 4 5 3 7 8 2 6 9 
+0 9 8 5 6 1 4 7 3 
+6 7 3 4 0 0 5 8 0 
+Output grid
+5 1 7 8 3 2 6 9 4 
+9 3 6 7 4 5 8 1 2 
+8 2 4 1 9 6 3 5 7 
+4 5 9 6 1 3 7 2 8 
+3 8 1 2 5 7 9 4 6 
+7 6 2 9 8 4 1 3 5 
+1 4 5 3 7 8 2 6 9 
+2 9 8 5 6 1 4 7 3 
+6 7 3 4 2 9 5 8 1 
+Time: 0.0414
+Input grid
+totCount populated: 60
+5 1 0 8 0 2 0 0 4 
+9 3 6 7 0 0 0 1 2 
+8 2 4 1 9 6 3 0 0 
+0 5 9 6 1 0 0 2 8 
+3 8 0 2 5 7 9 0 6 
+7 6 2 0 8 4 0 3 5 
+1 4 5 3 7 8 2 6 9 
+0 9 8 5 6 1 4 7 3 
+6 7 3 4 0 0 5 8 0 
+Output grid
+5 1 7 8 3 2 6 9 4 
+9 3 6 7 4 5 8 1 2 
+8 2 4 1 9 6 3 5 7 
+4 5 9 6 1 3 7 2 8 
+3 8 1 2 5 7 9 4 6 
+7 6 2 9 8 4 1 3 5 
+1 4 5 3 7 8 2 6 9 
+2 9 8 5 6 1 4 7 3 
+6 7 3 4 2 9 5 8 1 
+Time: 0.0472
+Input grid
+totCount populated: 55
+5 1 0 8 0 2 0 0 4 
+9 3 6 7 0 0 0 1 2 
+8 2 4 1 9 6 3 0 0 
+0 5 9 6 1 0 0 2 8 
+3 8 0 2 5 7 9 0 6 
+7 0 2 0 8 4 0 3 5 
+1 4 5 3 7 8 2 0 9 
+0 9 8 0 0 1 4 7 0 
+6 7 3 4 0 0 5 8 0 
+Output grid
+5 1 7 8 3 2 6 9 4 
+9 3 6 7 4 5 8 1 2 
+8 2 4 1 9 6 3 5 7 
+4 5 9 6 1 3 7 2 8 
+3 8 1 2 5 7 9 4 6 
+7 6 2 9 8 4 1 3 5 
+1 4 5 3 7 8 2 6 9 
+2 9 8 5 6 1 4 7 3 
+6 7 3 4 2 9 5 8 1 
+Time: 0.0613
+Input grid
+totCount populated: 50
+5 1 0 8 0 2 0 0 4 
+9 3 6 0 0 0 0 1 2 
+8 2 4 1 9 6 3 0 0 
+0 0 9 6 0 0 0 2 8 
+3 8 0 2 5 7 9 0 6 
+7 0 2 0 8 4 0 3 5 
+1 4 5 3 7 8 2 0 9 
+0 0 8 0 0 0 4 7 0 
+6 7 3 4 0 0 5 8 0 
+Output grid
+5 1 7 8 3 2 6 9 4 
+9 3 6 7 4 5 8 1 2 
+8 2 4 1 9 6 3 5 7 
+4 5 9 6 1 3 7 2 8 
+3 8 1 2 5 7 9 4 6 
+7 6 2 9 8 4 1 3 5 
+1 4 5 3 7 8 2 6 9 
+2 9 8 5 6 1 4 7 3 
+6 7 3 4 2 9 5 8 1 
+Time: 0.0877
+Input grid
+totCount populated: 45
+5 0 0 8 0 2 0 0 4 
+9 3 6 0 0 0 0 1 2 
+0 2 4 1 9 6 3 0 0 
+0 0 9 6 0 0 0 0 8 
+3 0 0 2 5 7 9 0 6 
+7 0 2 0 8 4 0 0 5 
+1 4 5 3 7 8 2 0 9 
+0 0 8 0 0 0 4 7 0 
+6 7 3 4 0 0 5 8 0 
+Output grid
+5 1 7 8 3 2 6 9 4 
+9 3 6 7 4 5 8 1 2 
+8 2 4 1 9 6 3 5 7 
+4 5 9 6 1 3 7 2 8 
+3 8 1 2 5 7 9 4 6 
+7 6 2 9 8 4 1 3 5 
+1 4 5 3 7 8 2 6 9 
+2 9 8 5 6 1 4 7 3 
+6 7 3 4 2 9 5 8 1 
+Time: 0.0879
+Input grid
+totCount populated: 40
+0 0 0 8 0 2 0 0 4 
+9 3 6 0 0 0 0 1 2 
+0 2 4 1 9 6 3 0 0 
+0 0 9 0 0 0 0 0 8 
+3 0 0 2 5 0 9 0 6 
+7 0 0 0 8 4 0 0 0 
+1 4 5 3 7 8 2 0 9 
+0 0 8 0 0 0 4 7 0 
+6 7 3 4 0 0 5 8 0 
+Output grid
+5 1 7 8 3 2 6 9 4 
+9 3 6 7 4 5 8 1 2 
+8 2 4 1 9 6 3 5 7 
+4 5 9 6 1 3 7 2 8 
+3 8 1 2 5 7 9 4 6 
+7 6 2 9 8 4 1 3 5 
+1 4 5 3 7 8 2 6 9 
+2 9 8 5 6 1 4 7 3 
+6 7 3 4 2 9 5 8 1 
+Time: 0.1529
+Input grid
+totCount populated: 35
+0 0 0 8 0 2 0 0 4 
+9 3 6 0 0 0 0 1 2 
+0 2 4 1 9 6 3 0 0 
+0 0 9 0 0 0 0 0 8 
+3 0 0 2 5 0 0 0 6 
+0 0 0 0 8 4 0 0 0 
+1 4 5 3 7 8 2 0 9 
+0 0 0 0 0 0 4 7 0 
+0 0 3 4 0 0 5 8 0 
+Output grid
+5 1 7 8 3 2 6 9 4 
+9 3 6 7 4 5 8 1 2 
+8 2 4 1 9 6 3 5 7 
+4 5 9 6 1 3 7 2 8 
+3 8 1 2 5 7 9 4 6 
+6 7 2 9 8 4 1 3 5 
+1 4 5 3 7 8 2 6 9 
+2 9 8 5 6 1 4 7 3 
+7 6 3 4 2 9 5 8 1 
+Time: 0.102
+Input grid
+totCount populated: 30
+0 0 0 8 0 2 0 0 4 
+9 3 6 0 0 0 0 1 2 
+0 2 4 0 9 6 3 0 0 
+0 0 0 0 0 0 0 0 8 
+0 0 0 0 5 0 0 0 6 
+0 0 0 0 8 4 0 0 0 
+1 4 5 3 7 8 2 0 9 
+0 0 0 0 0 0 4 7 0 
+0 0 3 4 0 0 5 0 0 
+Output grid
+5 1 7 8 3 2 6 9 4 
+9 3 6 5 4 7 8 1 2 
+8 2 4 1 9 6 3 5 7 
+3 5 2 7 6 1 9 4 8 
+4 7 8 9 5 3 1 2 6 
+6 9 1 2 8 4 7 3 5 
+1 4 5 3 7 8 2 6 9 
+2 8 9 6 1 5 4 7 3 
+7 6 3 4 2 9 5 8 1 
+Time: 0.3318
+Input grid
+totCount populated: 25
+0 0 0 8 0 2 0 0 4 
+9 3 6 0 0 0 0 1 2 
+0 2 4 0 9 6 3 0 0 
+0 0 0 0 0 0 0 0 8 
+0 0 0 0 5 0 0 0 6 
+0 0 0 0 8 4 0 0 0 
+1 0 5 3 0 8 2 0 0 
+0 0 0 0 0 0 4 0 0 
+0 0 3 4 0 0 0 0 0 
+Output grid
+5 1 7 8 3 2 6 9 4 
+9 3 6 5 4 7 8 1 2 
+8 2 4 1 9 6 3 5 7 
+2 5 1 9 6 3 7 4 8 
+4 7 8 2 5 1 9 3 6 
+3 6 9 7 8 4 1 2 5 
+1 4 5 3 7 8 2 6 9 
+7 9 2 6 1 5 4 8 3 
+6 8 3 4 2 9 5 7 1 
+Time: 0.3548
+Input grid
+totCount populated: 20
+0 0 0 0 0 2 0 0 4 
+9 0 0 0 0 0 0 1 0 
+0 2 4 0 9 6 3 0 0 
+0 0 0 0 0 0 0 0 8 
+0 0 0 0 5 0 0 0 6 
+0 0 0 0 8 4 0 0 0 
+1 0 5 3 0 0 2 0 0 
+0 0 0 0 0 0 4 0 0 
+0 0 3 4 0 0 0 0 0 
+Output grid
+3 1 6 5 7 2 8 9 4 
+9 5 7 8 4 3 6 1 2 
+8 2 4 1 9 6 3 5 7 
+2 6 1 7 3 9 5 4 8 
+4 7 8 2 5 1 9 3 6 
+5 3 9 6 8 4 7 2 1 
+1 4 5 3 6 7 2 8 9 
+6 8 2 9 1 5 4 7 3 
+7 9 3 4 2 8 1 6 5 
+Time: 0.2557
+
+Process finished with exit code 0
